@@ -9,6 +9,18 @@
         {
             "type": "composer",
             "url": "https://packages.drupal.org/8"
+        },
+        {
+             "type": "vcs",
+             "url": "https://github.com/FreelyGive/contacts_admin"
+        },
+        {
+             "type": "vcs",
+             "url": "https://github.com/yanniboi/decoupled_auth"
+        },
+        {
+             "type": "vcs",
+             "url": "https://github.com/yanniboi/contacts"
         }
     ],
     "scripts": {
