@@ -6,7 +6,8 @@ core: '8.x'
 version: '8.x-1.x'
 
 dependencies:
-  - contacts
+  - block
+  - help
   - system
   - user
 themes:
