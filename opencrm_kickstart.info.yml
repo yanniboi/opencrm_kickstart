@@ -1,0 +1,17 @@
+name: OpenCRM Kickstart
+type: profile
+description: 'OpenCRM Kickstart install profile.'
+project: 'opencrm'
+core: '8.x'
+version: '8.x-1.x'
+
+dependencies:
+  - contacts
+  - system
+  - user
+themes:
+  - bartik
+  - seven
+  - contacts_admin
+distribution:
+  name: OpenCRM
